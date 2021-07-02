@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Gamer-Landing';
+
+  re() {
+
+    window.location.href="https://get-gamers.com";
+
+  }
 }
